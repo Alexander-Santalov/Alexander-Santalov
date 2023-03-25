@@ -71,7 +71,7 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="https://practicum.yandex.ru/qa-engineer/?utm_source=yandex&utm_medium=search&utm_campaign=feed" target="_blank" rel="noopener noreferrer"><img style="width:90px" src="https://mgutm.ru/wp-content/uploads/img/logotip_mgutu.svg"></a>
+            <a href="https://mgutm.ru/" target="_blank" rel="noopener noreferrer"><img style="width:90px" src="https://mgutm.ru/wp-content/uploads/img/logotip_mgutu.svg"></a>
         </td>
         <td>Московский государственный университет технологий и управления им. К.Г. Разумовского.
          <br><b>Автоматизированные системы обработки информации и управления.</b>
@@ -85,7 +85,7 @@
 <p> <table style="width=100%" cellspacing="0" cellpadding="5">
     
    <tr >
-        <td align="center"><a href="http://qa.guru/" target="_blank" rel="noopener noreferrer"><img style="width:120px" src="https://www.ph4.ru/DL/LOGO/y/ya_praktikum.gif"></a></td>
+        <td align="center"><a href="https://practicum.yandex.ru/qa-engineer/?utm_source=yandex&utm_medium=search&utm_campaign=feed" target="_blank" rel="noopener noreferrer"><img style="width:120px" src="https://www.ph4.ru/DL/LOGO/y/ya_praktikum.gif"></a></td>
         <td>Профессия Инженер по тестированию.</td>
         <td>2021</td>
         <td><a target="_blank" href="https://disk.yandex.ru/i/D2FXpX42soye3w">Сертификат</a></td>
