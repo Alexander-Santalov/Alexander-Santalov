@@ -92,10 +92,10 @@
   </tr>
     
   <tr >
-        <td align="center"><a href="http://qa.guru/" target="_blank" rel="noopener noreferrer"><img style="width:120px" src="https://avatars.dzeninfra.ru/get-zen_doc/3533963/pub_6162f7faf979f128b0944f7e_6162f9cc01baa6458aaccee8/scale_1200"></a></td>
+        <td align="center"><a href="https://stepik.org/course/38218/syllabus" target="_blank" rel="noopener noreferrer"><img style="width:120px" src="https://avatars.dzeninfra.ru/get-zen_doc/3533963/pub_6162f7faf979f128b0944f7e_6162f9cc01baa6458aaccee8/scale_1200"></a></td>
         <td>Веб-разработка для начинающих: HTML и CSS</td>
         <td>2022</td>
-        <td>Сертификат</td>
+        <td><a target="_blank" href="https://stepik.org/cert/1815894">Сертификат</a></td>
   </tr>
   
   <tr>
