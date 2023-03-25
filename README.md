@@ -44,7 +44,7 @@
  <table style="width=100%"  cellspacing="0" cellpadding="5">
 	<tr>
         <td align="center">
-            <a href="https://bolid.ru/" target="_blank" rel="noopener noreferrer"><img style="width:100px" src="https://bolid.ru/bld/images/logo.png"></a>
+            <a href="https://bolid.ru/" target="_blank" rel="noopener noreferrer"><img style="width:110px" src="https://bolid.ru/bld/images/logo.png"></a>
         </td>
         <td >
             ЗАО НВП Болид
