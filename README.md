@@ -103,7 +103,7 @@
             <a href="https://itcollege59.ru/" target="_blank" rel="noopener noreferrer"><img style="width:120px" src="https://www.ph4.ru/DL/LOGO/y/ya_praktikum.gif"></a></td>
         <td>Автоматизатор тестирования на Java</td>
         <td>2022</td>
-        <td>Сертификат</td>
+        <td><a target="_blank" href="https://disk.yandex.ru/i/D2FXpX42soye3w">Сертификат</a></td>
     </tr>
  
   <tr >
