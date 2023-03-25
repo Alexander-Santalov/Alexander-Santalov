@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=160&section=header&text=Hi%20there!&fontAlignY=32&fontAlign=20&fontSize=52&animation=twinkling&fontColor=EAF5D2)
 
 <p align="center">
-  <img title="|Customized by Santalov Aleksandr|" src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&size=35&duration=3000&color=gradient&customColorList=1&center=true&vCenter=true&width=450&lines=Alexandr+Santalov;QA+Engineer+Python">
+  <img title="|Customized by Santalov Aleksandr|" src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&size=35&duration=3000&color=gradient&customColorList=1&center=true&vCenter=true&width=450&lines=Aleksandr+Santalov;QA+Engineer+Python">
 </p>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=160&section=footer&desc=Wellcome%20to%20my%20GitHub&descAlignY=75&descSize=40&animation=twinkling&fontColor=EAF5D2&descAlign=67)
@@ -9,7 +9,7 @@
 ## :rocket: Технологии и инструменты
 
 
-<p  align="center"
+<p align="center"
 <code><img width="5%" title="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1024px-Python.svg.png"></code>
 <code><img width="5%" title="Pycharm" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png"></code>
 <code><img width="5%" title="Pytest" src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg"></code>
@@ -40,3 +40,96 @@
 </code>
 </p>
 
+### :lady_beetle: Работа
+ <table style="width=100%"  cellspacing="0" cellpadding="5">
+	<tr>
+        <td align="center">
+            <a href="https://bolid.ru/" target="_blank" rel="noopener noreferrer"><img style="width:90px" src="https://bolid.ru/bld/images/logo.png"></a>
+        </td>
+        <td >
+            ЗАО НВП Болид
+         <br><b>Инженер по тестированию.                                           </b>
+        </td>
+        <td>11.2021 - ...</td>
+    </tr>
+   
+</table>
+
+<details><summary>:man_student: <b>Образование</b></summary>
+<br> 
+<table style="width=100%" cellspacing="0" cellpadding="5">
+    <tr>
+        <td align="center">
+            <a href="http://spkvtk.ru/" target="_blank" rel="noopener noreferrer"><img style="width:90px" src="https://cdn.icon-icons.com/icons2/810/PNG/512/film_projector_cinema_icon-icons.com_66132.png"></a>
+        </td>
+        <td>
+            Сергиево-Посадский Киновидеотехнический колледж.
+         <br><b>Программное обеспечение вычислительной техники и
+автоматизированных систем</b>
+        </td>
+        <td>2005</td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://mgutm.ru/" target="_blank" rel="noopener noreferrer"><img style="width:90px" src="https://mgutm.ru/wp-content/uploads/img/logotip_mgutu.svg"></a>
+        </td>
+        <td>Московский государственный университет технологий и управления им. К.Г. Разумовского.
+         <br><b>Автоматизированные системы обработки информации и управления.</b>
+        </td>
+        <td>2011</td>
+    </tr>
+</table>
+
+
+  
+  
+  
+  
+<details><summary>:scroll: <b>Курсы</b></summary>
+<p> <table style="width=100%" cellspacing="0" cellpadding="5">
+    
+   <tr >
+        <td align="center"><a href="http://qa.guru/" target="_blank" rel="noopener noreferrer"><img style="width:120px" src="https://www.ph4.ru/DL/LOGO/y/ya_praktikum.gif"></a></td>
+        <td>Профессия Инженер по тестированию.</td>
+        <td>2021</td>
+        <td>Сертификат</td>
+  </tr>
+    
+  <tr >
+        <td align="center"><a href="http://qa.guru/" target="_blank" rel="noopener noreferrer"><img style="width:120px" src="https://avatars.dzeninfra.ru/get-zen_doc/3533963/pub_6162f7faf979f128b0944f7e_6162f9cc01baa6458aaccee8/scale_1200"></a></td>
+        <td>Веб-разработка для начинающих: HTML и CSS</td>
+        <td>2022</td>
+        <td>Сертификат</td>
+  </tr>
+  
+  <tr>
+    <td align="center">
+            <a href="https://itcollege59.ru/" target="_blank" rel="noopener noreferrer"><img style="width:120px" src="https://www.ph4.ru/DL/LOGO/y/ya_praktikum.gif"></a></td>
+        <td>Автоматизатор тестирования на Java</td>
+        <td>2022</td>
+        <td>Сертификат</td>
+    </tr>
+ 
+  <tr >
+        <td align="center"><a href="http://qa.guru/" target="_blank" rel="noopener noreferrer"><img style="width:120px" src="https://avatars.dzeninfra.ru/get-zen_doc/3533963/pub_6162f7faf979f128b0944f7e_6162f9cc01baa6458aaccee8/scale_1200"></a></td>
+        <td>Автоматизация тестирования с помощью Selenium и Python</td>
+        <td>2022</td>
+        <td>Сертификат</td>
+    </tr>
+  
+  <tr >
+        <td align="center"><a href="http://qa.guru/" target="_blank" rel="noopener noreferrer"><img style="width:120px" src="https://avatars.dzeninfra.ru/get-zen_doc/3533963/pub_6162f7faf979f128b0944f7e_6162f9cc01baa6458aaccee8/scale_1200"></a></td>
+        <td>Тестирование ПО:Автоматизация и Программирование.Python.Selenium</td>
+        <td>2023</td>
+        <td>Сертификат</td>
+    </tr>
+  
+  <tr >
+        <td align="center"><a href="http://qa.guru/" target="_blank" rel="noopener noreferrer"><img style="width:120px" src="https://fs-thb03.getcourse.ru/fileservice/file/thumbnail/h/b635b6cb9478bb87c77e9c070ee6e122.png/s/x50/a/159627/sc/207"></a></td>
+        <td>Курс инженеров по автоматизации тестирования на Python</td>
+        <td>2023</td>
+        <td>Сертификат</td>
+    </tr>
+  
+
+ </table></p>
