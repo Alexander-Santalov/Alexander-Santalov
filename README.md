@@ -129,6 +129,6 @@
 </table></p>
 </details></details>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexander-Santalov)](https://github.com/Alexander-Santalov/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexander-Santalov)](https://github.com/Alexander-Santalov)
 
 
