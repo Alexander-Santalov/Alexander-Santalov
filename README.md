@@ -80,11 +80,7 @@
     </tr>
 </table>
 
-
-  
-  
-  
-  
+ 
 <details><summary>:scroll: <b>Курсы</b></summary>
 <p> <table style="width=100%" cellspacing="0" cellpadding="5">
     
@@ -130,6 +126,9 @@
         <td>2023</td>
         <td>Сертификат</td>
     </tr>
-  
+</table></p>
+</details></details>
 
- </table></p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexander-Santalov)](https://github.com/Alexander-Santalov/github-readme-stats)
+
+
