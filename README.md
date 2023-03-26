@@ -124,7 +124,7 @@
         <td align="center"><a href="https://qa.guru/python" target="_blank" rel="noopener noreferrer"><img style="width:120px" src="https://fs-thb03.getcourse.ru/fileservice/file/thumbnail/h/b635b6cb9478bb87c77e9c070ee6e122.png/s/x50/a/159627/sc/207"></a></td>
         <td>Курс инженеров по автоматизации тестирования на Python</td>
         <td>2023</td>
-        <td>Сертификат</td>
+        <td>InProgress</td>
     </tr>
 </table></p>
 </details></details>
