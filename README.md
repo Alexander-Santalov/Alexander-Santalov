@@ -85,7 +85,7 @@
 <p> <table style="width=100%" cellspacing="0" cellpadding="5">
     
    <tr >
-        <td align="center"><a href="https://practicum.yandex.ru/qa-engineer/?utm_source=yandex&utm_medium=search&utm_campaign=feed" target="_blank" rel="noopener noreferrer"><img style="width:90px" src="https://www.ph4.ru/DL/LOGO/y/ya_praktikum.gif"></a></td>
+        <td align="center"><a href="https://practicum.yandex.ru/qa-engineer/?utm_source=yandex&utm_medium=search&utm_campaign=feed" target="_blank" rel="noopener noreferrer"><img style="width:90px" src="https://avatars.mds.yandex.net/get-lpc/1520633/735c38f1-434d-4190-a65d-76bfd16bd2c0/width_360_q70"></a></td>
         <td>Профессия Инженер по тестированию.</td>
         <td>2021</td>
         <td><a target="_blank" href="https://disk.yandex.ru/i/D2FXpX42soye3w">Сертификат</a></td>
@@ -100,7 +100,7 @@
   
   <tr>
     <td align="center">
-            <a href="https://practicum.yandex.ru/qa-automation-engineer-java/" target="_blank" rel="noopener noreferrer"><img style="width:90px" src="https://www.ph4.ru/DL/LOGO/y/ya_praktikum.gif"></a></td>
+            <a href="https://practicum.yandex.ru/qa-automation-engineer-java/" target="_blank" rel="noopener noreferrer"><img style="width:90px" src="https://avatars.mds.yandex.net/get-lpc/1520633/735c38f1-434d-4190-a65d-76bfd16bd2c0/width_360_q70"></a></td>
         <td>Автоматизатор тестирования на Java</td>
         <td>2022</td>
         <td><a target="_blank" href="https://disk.yandex.ru/i/qw2SxbLnKlmjTA">Сертификат</a></td>
