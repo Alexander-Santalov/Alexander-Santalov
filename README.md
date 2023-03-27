@@ -85,14 +85,14 @@
 <p> <table style="width=100%" cellspacing="0" cellpadding="5">
     
    <tr >
-        <td align="center"><a href="https://practicum.yandex.ru/qa-engineer/?utm_source=yandex&utm_medium=search&utm_campaign=feed" target="_blank" rel="noopener noreferrer"><img style="width:90px" src="https://avatars.mds.yandex.net/get-lpc/1520633/735c38f1-434d-4190-a65d-76bfd16bd2c0/width_360_q70"></a></td>
+        <td align="center"><a href="https://practicum.yandex.ru/qa-engineer/?utm_source=yandex&utm_medium=search&utm_campaign=feed" target="_blank" rel="noopener noreferrer"><img style="width:110px" src="https://avatars.mds.yandex.net/get-lpc/1520633/735c38f1-434d-4190-a65d-76bfd16bd2c0/width_360_q70"></a></td>
         <td>Профессия Инженер по тестированию.</td>
         <td>2021</td>
         <td><a target="_blank" href="https://disk.yandex.ru/i/D2FXpX42soye3w">Сертификат</a></td>
   </tr>
     
   <tr >
-        <td align="center"><a href="https://stepik.org/course/38218/syllabus" target="_blank" rel="noopener noreferrer"><img style="width:90px" src="https://avatars.dzeninfra.ru/get-zen_doc/3533963/pub_6162f7faf979f128b0944f7e_6162f9cc01baa6458aaccee8/scale_1200"></a></td>
+        <td align="center"><a href="https://stepik.org/course/38218/syllabus" target="_blank" rel="noopener noreferrer"><img style="width:110px" src="https://avatars.dzeninfra.ru/get-zen_doc/3533963/pub_6162f7faf979f128b0944f7e_6162f9cc01baa6458aaccee8/scale_1200"></a></td>
         <td>Веб-разработка для начинающих: HTML и CSS</td>
         <td>2022</td>
         <td><a target="_blank" href="https://stepik.org/cert/1815894">Сертификат</a></td>
@@ -100,28 +100,28 @@
   
   <tr>
     <td align="center">
-            <a href="https://practicum.yandex.ru/qa-automation-engineer-java/" target="_blank" rel="noopener noreferrer"><img style="width:90px" src="https://avatars.mds.yandex.net/get-lpc/1520633/735c38f1-434d-4190-a65d-76bfd16bd2c0/width_360_q70"></a></td>
+            <a href="https://practicum.yandex.ru/qa-automation-engineer-java/" target="_blank" rel="noopener noreferrer"><img style="width:110px" src="https://avatars.mds.yandex.net/get-lpc/1520633/735c38f1-434d-4190-a65d-76bfd16bd2c0/width_360_q70"></a></td>
         <td>Автоматизатор тестирования на Java</td>
         <td>2022</td>
         <td><a target="_blank" href="https://disk.yandex.ru/i/qw2SxbLnKlmjTA">Сертификат</a></td>
     </tr>
  
   <tr >
-        <td align="center"><a href="https://stepik.org/course/575/syllabus" target="_blank" rel="noopener noreferrer"><img style="width:90px" src="https://avatars.dzeninfra.ru/get-zen_doc/3533963/pub_6162f7faf979f128b0944f7e_6162f9cc01baa6458aaccee8/scale_1200"></a></td>
+        <td align="center"><a href="https://stepik.org/course/575/syllabus" target="_blank" rel="noopener noreferrer"><img style="width:110px" src="https://avatars.dzeninfra.ru/get-zen_doc/3533963/pub_6162f7faf979f128b0944f7e_6162f9cc01baa6458aaccee8/scale_1200"></a></td>
         <td>Автоматизация тестирования с помощью Selenium и Python</td>
         <td>2022</td>
         <td><a target="_blank" href="https://stepik.org/cert/1660735">Сертификат</a></td>
     </tr>
   
   <tr >
-        <td align="center"><a href="https://stepik.org/course/120491/syllabus" target="_blank" rel="noopener noreferrer"><img style="width:90px" src="https://avatars.dzeninfra.ru/get-zen_doc/3533963/pub_6162f7faf979f128b0944f7e_6162f9cc01baa6458aaccee8/scale_1200"></a></td>
+        <td align="center"><a href="https://stepik.org/course/120491/syllabus" target="_blank" rel="noopener noreferrer"><img style="width:110px" src="https://avatars.dzeninfra.ru/get-zen_doc/3533963/pub_6162f7faf979f128b0944f7e_6162f9cc01baa6458aaccee8/scale_1200"></a></td>
         <td>Тестирование ПО:Автоматизация и Программирование.Python.Selenium</td>
         <td>2023</td>
         <td><a target="_blank" href="https://stepik.org/cert/1965039">Сертификат</a></td>
     </tr>
   
   <tr >
-        <td align="center"><a href="https://qa.guru/python" target="_blank" rel="noopener noreferrer"><img style="width:90px" src="https://fs-thb03.getcourse.ru/fileservice/file/thumbnail/h/b635b6cb9478bb87c77e9c070ee6e122.png/s/x50/a/159627/sc/207"></a></td>
+        <td align="center"><a href="https://qa.guru/python" target="_blank" rel="noopener noreferrer"><img style="width:110px" src="https://fs-thb03.getcourse.ru/fileservice/file/thumbnail/h/b635b6cb9478bb87c77e9c070ee6e122.png/s/x50/a/159627/sc/207"></a></td>
         <td>Курс инженеров по автоматизации тестирования на Python</td>
         <td>2023</td>
         <td>InProgress</td>
