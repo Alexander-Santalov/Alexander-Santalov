@@ -126,6 +126,24 @@
         <td>2023</td>
         <td><a target="_blank" href="https://disk.yandex.ru/i/oWTOd4cx7WAjCg">Сертификат</a></td>
     </tr>
+<tr >
+        <td align="center"><a href="https://stepik.org/course/575/syllabus" target="_blank" rel="noopener noreferrer"><img style="width:110px" src="https://avatars.dzeninfra.ru/get-zen_doc/3533963/pub_6162f7faf979f128b0944f7e_6162f9cc01baa6458aaccee8/scale_1200"></a></td>
+        <td>Программирование на Python</td>
+        <td>2022</td>
+        <td><a target="_blank" href="https://stepik.org/cert/2028792">Сертификат</a></td>
+    </tr>	
+<tr >
+        <td align="center"><a href="https://stepik.org/course/575/syllabus" target="_blank" rel="noopener noreferrer"><img style="width:110px" src="https://avatars.dzeninfra.ru/get-zen_doc/3533963/pub_6162f7faf979f128b0944f7e_6162f9cc01baa6458aaccee8/scale_1200"></a></td>
+        <td>Инди-курс программирования на Python</td>
+        <td>2022</td>
+        <td><a target="_blank" href="https://stepik.org/cert/2040807">Сертификат</a></td>
+    </tr>	
+<tr >
+        <td align="center"><a href="https://stepik.org/course/575/syllabus" target="_blank" rel="noopener noreferrer"><img style="width:110px" src="https://avatars.dzeninfra.ru/get-zen_doc/3533963/pub_6162f7faf979f128b0944f7e_6162f9cc01baa6458aaccee8/scale_1200"></a></td>
+        <td>Объектно-ориентированное программирование на Python</td>
+        <td>2022</td>
+        <td><a target="_blank" href="https://stepik.org/cert/2055946">Сертификат</a></td>
+    </tr>	
 </table></p>
 </details></details>
 
