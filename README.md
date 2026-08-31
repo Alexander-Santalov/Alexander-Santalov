@@ -147,8 +147,6 @@
 </table></p>
 </details></details>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexander-Santalov)](https://github.com/Alexander-Santalov)
-
 ## Дипломные проекты:
 * <b>[API авто тесты](https://github.com/Alexander-Santalov/api_reqres)</b>
 * <b>[UI авто тесты](https://github.com/Alexander-Santalov/ui_demoqa)</b>
